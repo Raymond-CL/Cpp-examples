@@ -4,7 +4,7 @@ some C-plus-plus examples
 
 ---
 
-## Conway's Game of Life
+### Conway's Game of Life
 Cellular Automata Simuation
 In memory of John Horton Conway's passing on 11th April, 2020
 
