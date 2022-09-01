@@ -1,0 +1,2 @@
+g++ gsl-test.cpp -Wall -Wno-write-strings -lgsl -lm -o gsl-test.exe
+./gsl-test.exe
